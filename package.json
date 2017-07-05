@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/jacksondonovan/deploy_practice#readme",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "express": "^4.15.3",
-    "hbs": "^4.0.1"
+    "hbs": "^4.0.1",
+    "knex": "^0.13.0"
   }
 }
